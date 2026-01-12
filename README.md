@@ -8,26 +8,20 @@ I'm a PhD student in [Philipp Messer's lab](https://github.com/MesserLab) at Cor
 
 ---
 
-## 🛠️ Projects
+## Population Genetics Tools
 
-### 🌱 Open Source Contributions
-
-- **[SLiM](https://github.com/MesserLab/SLiM)** — Forward-time population genetic simulation framework
-- **[slim-vscode-tools](https://github.com/chris-a-talbot/slim-vscode-tools)** — VS Code extension & LSP for SLiM: syntax highlighting, IntelliSense, documentation, and script execution.
-
-
-### Population Genetics Tools
-
-- **[ARGscape](https://github.com/chris-a-talbot/argscape)** — Web application for visualizing and analyzing tree sequences and ARGs. Built with React + FastAPI.  
+- 🌱 **[SLiM](https://github.com/MesserLab/SLiM)** — *Open-Source Contributor* - Forward-time population genetic and evolutionary ecology simulation framework.
+- 🌱 **[slim-vscode-tools](https://github.com/chris-a-talbot/slim-vscode-tools)** — *Open-Source Contributor* - VS Code extension & LSP for SLiM.
+- **[ARGscape](https://github.com/chris-a-talbot/argscape)** — *Lead Developer* - Web application for visualizing and analyzing tree sequences.  
 🌐 [argscape.com](https://www.argscape.com) · 📄 [arXiv:2510.07255](https://arxiv.org/abs/2510.07255)
-- **[fastgaia](https://github.com/chris-a-talbot/fastgaia)** — Fast ancestral location inference from ARGs.
-- **[gaiapy](https://github.com/chris-a-talbot/gaiapy)** — Python implementation of the GAIA spatial inference algorithms.
+- **[fastgaia](https://github.com/chris-a-talbot/fastgaia)** — *Lead Developer* - Fast ancestral location inference from ARGs.
+- **[gaiapy](https://github.com/chris-a-talbot/gaiapy)** — *Lead Developer* - Python implementation of the GAIA spatial inference algorithms (Grundler et al., 2025).
 
-### Tools for Scientists & Educators
+## Other Tools for Scientists & Educators
 
-- **[pubsync](https://pubsync.io)** — Publication aggregator and embeddable widget for academic websites.
-- **[Anstett Lab Website](https://anstettlab.chris-a-talbot.com/)** — Lab website for Dr. Daniel Anstett at Cornell.
-- **Cayuga Keep** — Volunteer and data management system for [Discover Cayuga Lake](https://www.discovercayugalake.org/).
+- **[pubsync](https://pubsync.io)** - *Lead Develper* — Publication aggregator and embeddable widget for academic websites.
+- **[Anstett Lab Website](https://anstettlab.chris-a-talbot.com/)** — *Lead Developer* - Lab website for Dr. Daniel Anstett at Cornell.
+- **Cayuga Keep** — *Lead Developer* - Volunteer and data management system for [Discover Cayuga Lake](https://www.discovercayugalake.org/).
   
 ---
 
