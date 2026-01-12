@@ -8,15 +8,6 @@ I'm a PhD student in [Philipp Messer's lab](https://github.com/MesserLab) at Cor
 
 ---
 
-## 🔬 Research Interests
-
-- **Population Genetics for Conservation & Global Change**
-- **Spatial Population Genetics & Ancestral Recombination Graphs**
-- **Evolutionary Ecology & Agriculture**
-- **Simulation Methods**
-
----
-
 ## 🛠️ Projects
 
 ### Population Genetics Tools
