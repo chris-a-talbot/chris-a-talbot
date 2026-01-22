@@ -11,6 +11,7 @@ I develop bioinformatics tools and do research in [Philipp Messer's lab](https:/
 ## Population Genetics Tools
 
 - 🌱 **[SLiM](https://github.com/MesserLab/SLiM)** — *Open-Source Contributor* - Forward-time population genetic and evolutionary ecology simulation framework.
+🌐 [messerlab.org/slim](https://messerlab.org/slim/) · 📄 [10.1093/molbev/msaf313](https://doi.org/10.1093/molbev/msaf313)
 - 🌱 **[slim-vscode-tools](https://github.com/chris-a-talbot/slim-vscode-tools)** — *Open-Source Contributor* - VS Code extension & LSP for SLiM.
 - **[ARGscape](https://github.com/chris-a-talbot/argscape)** — *Lead Developer* - Web application for visualizing and analyzing tree sequences.  
 🌐 [argscape.com](https://www.argscape.com) · 📄 [arXiv:2510.07255](https://arxiv.org/abs/2510.07255)
@@ -20,7 +21,7 @@ I develop bioinformatics tools and do research in [Philipp Messer's lab](https:/
 ## Other Tools for Scientists & Educators
 
 - **[pubsync](https://pubsync.io)** - *Lead Develper* — Publication aggregator and embeddable widget for academic websites.
-- **[Anstett Lab Website](https://anstettlab.chris-a-talbot.com/)** — *Lead Developer* - Lab website for Dr. Daniel Anstett at Cornell.
+- **[Anstett Lab Website](https://anstettlab.com)** — *Lead Developer* - Lab website for Dr. Daniel Anstett at Cornell.
 - **Cayuga Keep** — *Lead Developer* - Volunteer and data management system for [Discover Cayuga Lake](https://www.discovercayugalake.org/).
   
 ---
