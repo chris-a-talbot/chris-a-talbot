@@ -2,7 +2,7 @@
 
 **PhD Student in Computational Biology @ Cornell | NSF Graduate Research Fellow**
 
-I'm a PhD student in [Philipp Messer's lab](https://github.com/MesserLab) at Cornell, where I develop tools for population genetics research. I'm interested in spatiotemporal patterns of genetic diversity. I contribute to the [SLiM](https://github.com/MesserLab/SLiM) ecosystem, and I build software that helps scientists and educators work more effectively.
+I develop bioinformatics tools and do research in [Philipp Messer's lab](https://github.com/MesserLab). I'm interested in spatiotemporal patterns of genetic diversity. I contribute to the [SLiM](https://github.com/MesserLab/SLiM) ecosystem, and I build software that helps scientists and educators work more effectively.
 
 [![Website](https://img.shields.io/badge/Website-chris--a--talbot.com-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://chris-a-talbot.com)
 
