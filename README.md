@@ -10,7 +10,7 @@ I develop bioinformatics tools and do research in [Philipp Messer's lab](https:/
 
 ## Population Genetics Tools
 
-- 🌱 **[SLiM](https://github.com/MesserLab/SLiM)** — *Open-Source Contributor* - Forward-time population genetic and evolutionary ecology simulation framework.
+- 🌱 **[SLiM](https://github.com/MesserLab/SLiM)** — *Open-Source Contributor* - Forward-time population genetic and evolutionary ecology simulation framework.  
 🌐 [messerlab.org/slim](https://messerlab.org/slim/) · 📄 [10.1093/molbev/msaf313](https://doi.org/10.1093/molbev/msaf313)
 - 🌱 **[slim-vscode-tools](https://github.com/chris-a-talbot/slim-vscode-tools)** — *Open-Source Contributor* - VS Code extension & LSP for SLiM.
 - **[ARGscape](https://github.com/chris-a-talbot/argscape)** — *Lead Developer* - Web application for visualizing and analyzing tree sequences.  
